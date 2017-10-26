@@ -1,2 +1,3 @@
 *.sock
+data
 node_modules
